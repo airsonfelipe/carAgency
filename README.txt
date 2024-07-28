@@ -1,4 +1,4 @@
-====== Cars, Motorcycles and Trucks Rental Agency ======
+ ====== Cars, Motorcycles and Trucks Rental Agency ======
 
 This Java program is designed to manage vehicle information for a car rental agency. The program allows company staff to add new vehicles, input their details, and display the information of all available vehicles. The implementation consists of several key components: interfaces, classes, and the main program logic.
 
