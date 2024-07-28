@@ -1,3 +1,5 @@
+====== Cars, Motorcycles and Trucks Rental Agency ======
+
 This Java program is designed to manage vehicle information for a car rental agency. The program allows company staff to add new vehicles, input their details, and display the information of all available vehicles. The implementation consists of several key components: interfaces, classes, and the main program logic.
 
 First, the program defines four interfaces: `Vehicle`, `CarVehicle`, `MotorVehicle`, and `TruckVehicle`. These interfaces establish a contract for what methods must be implemented by any class that claims to be a type of vehicle. The `Vehicle` interface includes methods to retrieve the vehicle's make, model, and year of manufacture. The `CarVehicle` interface adds methods specific to cars, such as the number of doors and fuel type. Similarly, the `MotorVehicle` interface includes methods for the number of wheels and the type of motorcycle, and the `TruckVehicle` interface includes methods for cargo capacity and transmission type.
